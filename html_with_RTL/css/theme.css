@@ -8782,3 +8782,11 @@ footer a:hover {
       content: "\f291"; }
     .common-home .products-list .product-grid .product-item-container .right-block .cartinfo--static .addToCart span, .common-home .products-list .product-grid .product-item-container .right-block .button-group .addToCart span {
       display: none; } }
+      .container-megamenu.vertical
+      .vertical-wrapper
+      ul.megamenu
+      > li
+      > .sub-menu
+      .content {
+      width: max-content;
+    }
