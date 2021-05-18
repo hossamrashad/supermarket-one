@@ -253,7 +253,7 @@
  [1] BLOCK HEADER
  ==============================================*/
 .typeheader-1 {
-  background: url(../../image/bg/bg-header1.jpg) no-repeat right 36px;
+  /*background: url(../../image/bg/bg-header1.jpg) no-repeat right 36px;*/
   /*=====SEARCH ======*/
   /*BLOCK CART*/
   /*MENU MEGA*/
@@ -563,7 +563,7 @@
     background: transparent; }
   .typeheader-1 .container-megamenu.horizontal ul.megamenu > li > a {
     line-height: 100%;
-    color: #fff; }
+    color: #333; }
   .typeheader-1 .container-megamenu.horizontal ul.megamenu > li.item-special, .typeheader-1 .container-megamenu.horizontal ul.megamenu > li.item-purchase {
     display: none; }
   .typeheader-1 .container-megamenu.vertical {
@@ -613,7 +613,7 @@
   color: #222; }
 
 .typeheader-1 .container-megamenu.horizontal ul.megamenu > li:hover > a, .typeheader-1 .container-megamenu.horizontal ul.megamenu > li.active > a, .typeheader-1 .container-megamenu.horizontal ul.megamenu > li.menu_active > a {
-  color: #222; }
+  color: #D4E251; }
 
 @media (min-width: 1200px) {
   .common-home .typeheader-1 .container-megamenu.vertical {
