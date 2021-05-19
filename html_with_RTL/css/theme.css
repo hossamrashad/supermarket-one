@@ -2125,7 +2125,8 @@ div.required .control-label:before {
 
 #sosearchpro.so-search {
   width: 100%;
-  padding: 0; }
+  padding: 0; 
+border: 1px solid #333;}
 
 .sohomepage-slider .form-group {
   margin-bottom: 0; }
@@ -7164,7 +7165,7 @@ footer a:hover {
   color: #DCE772; }
 
 .typefooter-1 .footer-top {
-  background-color: #DCE772; }
+  background-color: #F5F5F5; }
 
 .typefooter-1 .footer-links li a:hover, .typefooter-1 .socials li a:hover, .typefooter-1 .footer-middle .footer-links li a:hover {
   color: #DCE772; }
