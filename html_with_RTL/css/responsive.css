@@ -638,7 +638,7 @@
           line-height: 40px; }
         header.typeheader-1 .search-header-w .icon-search i {
           font-size: 18px;
-          color: #fff; }
+          color: #000; }
         header.typeheader-1 .search-header-w .icon-search.active i::before {
           content: "\f00d"; }
         header.typeheader-1 .search-header-w .icon-search:hover {
@@ -1227,7 +1227,7 @@
         display: none; }
       .megamenu-style-dev .navbar-default .vertical .navbar-header .navbar-toggle {
         font-size: 14px;
-        color: #fff;
+        color: rgb(0, 0, 0);
         text-transform: uppercase;
         font-weight: 500;
         margin: 0;
