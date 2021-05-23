@@ -349,7 +349,7 @@
     margin-top: 3px; }
   .typeheader-1 .wishlist-comp li a i {
     font-size: 26px;
-    color: #fff; }
+    color: #CBDC30; }
   .typeheader-1 .wishlist-comp li a span {
     display: none; }
   .typeheader-1 .wishlist-comp li a.top-link-wishlist {
@@ -363,7 +363,7 @@
       font-family: 'FontAwesome';
       content: "\f004";
       font-size: 26px;
-      color: #fff;
+      color: #CBDC30;
       display: block;
       text-indent: 0; }
     .typeheader-1 .wishlist-comp li a.top-link-wishlist:hover:before {
@@ -470,7 +470,9 @@
     border-radius: 0;
     text-transform: upper-case;
     border-bottom-left-radius: 3px;
-    border-top-left-radius: 3px; }
+    border-top-left-radius: 3px; 
+  
+  }
   .typeheader-1 #sosearchpro .search button i {
     font-size: 12px;
     color: #fff; }
