@@ -314,7 +314,7 @@
     top: 9px;
     width: 1px; }
   .typeheader-1 .telephone ul li a {
-    color: #fff;
+    color: #000;
     text-transform: capitalize; }
     .typeheader-1 .telephone ul li a i {
       margin-left: 5px; }
@@ -328,7 +328,7 @@
   .typeheader-1 .signin-w ul li {
     float: right; }
   .typeheader-1 .signin-w ul li a {
-    color: #fff; }
+    color: #000; }
     .typeheader-1 .signin-w ul li a:hover {
       color: #222; }
   .typeheader-1 .welcome-msg {
